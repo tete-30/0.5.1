@@ -1,0 +1,8 @@
+p:nth-child(even):not(:first-child) {
+    background-color:#0CA789;
+    } 
+    p {
+        border-radius: 5px;
+        border: 2px solid #0CA789;
+        padding: 7px;
+    }
